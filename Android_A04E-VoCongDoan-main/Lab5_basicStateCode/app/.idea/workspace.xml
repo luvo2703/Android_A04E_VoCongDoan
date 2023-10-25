@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="479ba892-b9d4-4765-899e-66a49b36c43f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/app/src/main/java/com/example/basicstatecodelab/WaterCounter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/app/src/main/java/com/example/basicstatecodelab/WellnessScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/app/src/main/java/com/example/basicstatecodelab/WellnessTask.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/app/src/main/java/com/example/basicstatecodelab/WellnessTaskItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/app/src/main/java/com/example/basicstatecodelab/WellnessTasksList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BasicStateCodelab/app/src/main/java/com/example/basicstatecodelab/WellnessViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4_work_call/kotlin-words-call-app/.gradle/file-system.probe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2WR79j9tmg349OHHGO1A5jUJwlc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/PROJECT/Android/Android_A03E-HoangCongLap/Lab5_Basic_state_code"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="479ba892-b9d4-4765-899e-66a49b36c43f" name="Changes" comment="" />
+      <created>1696683388931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696683388931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
